@@ -6,9 +6,9 @@ minify = true
 
 [[d1_databases]]
 binding = "DB"
-database_name = "substore_workers_database_name"
-database_id = "substore_workers_database_id"
+database_name = "sub_store"
+database_id = "ce47fc64-ce52-45c2-8b30-300d6826b06b"
 
 [vars]
-BEARER_TOKEN = "substore_workers_bearer_token"
-D_TOKEN = "substore_workers_d_token"
+BEARER_TOKEN = "sHHCGFUYxBWQ"
+D_TOKEN = "abjAjlTMAys2"
